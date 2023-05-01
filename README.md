@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to yeseong0412 Github Profile
 
 <!--
 **yeseong0412/yeseong0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
