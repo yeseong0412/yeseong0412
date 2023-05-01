@@ -7,8 +7,8 @@
 - I'm FA(FreeAgent) Back-End developer.
 ---
 ## Contect
--- Gmail : yeseong0412@dgsw.hs.kr
+- Gmail : yeseong0412@dgsw.hs.kr
 
--- instargram : yeseong_0412
+- instargram : yeseong_0412
 
 ---
