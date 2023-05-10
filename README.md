@@ -7,6 +7,9 @@
 - I'm FA(FreeAgent) Back-End developer.
 ---
 ## Contect
+
+- Meet(DGSW) : 1-2 양예성
+
 - Gmail : yeseong0412@dgsw.hs.kr
 
 - instargram : [yeseong_0412](https://www.instagram.com/yeseong_0412/)
