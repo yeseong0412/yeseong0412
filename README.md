@@ -6,7 +6,7 @@
 - I'm a student in Daegu Software Meister High School.
 - I'm FA(FreeAgent) Back-End developer. 
 ---
-## Contect
+## Contact
 
 - Meet(DGSW) : 1-2 양예성
 
