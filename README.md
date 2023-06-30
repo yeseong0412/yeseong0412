@@ -1,6 +1,6 @@
 ---
 ## Welcome to yeseong0412 Github
-- My portfolio : [click](https://0start.notion.site/0start/9d2edf8669074a388dc9f816cba57649)
+- My portfolio : [click](https://0start.notion.site/0start/9d2edf8669074a388dc9f816cba57649)   
 - I believe in my growth potential.
 - I'm interested in Back-End development and Make Start-up(Operation).
 - I'm a student in Daegu Software Meister High School.
