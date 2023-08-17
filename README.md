@@ -10,8 +10,8 @@
 
 - Meet(DGSW) : 1-2 양예성
 
-- Gmail : yeseong0412@dgsw.hs.kr
+- Mail : yeseong0412@dgsw.hs.kr
 
-- instargram : [yeseong_0412](https://www.instagram.com/yeseong_0412/)
+- Instargram : [yeseong_0412](https://www.instagram.com/yeseong_0412/)
 
 ---
