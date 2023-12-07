@@ -15,6 +15,6 @@
 
 - Instargram : [yeseong_0412](https://www.instagram.com/yeseong_0412/)
 
-- velog ; https://velog.io/@yeseong0412
+- velog : https://velog.io/@yeseong0412
 
 ---
