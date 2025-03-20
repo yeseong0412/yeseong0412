@@ -8,7 +8,7 @@
 ---
 ## Contact
 
-- Meet(DGSW) : 2-1 양예성
+- Meet(DGSW) : 3-1 양예성
 
 - Mail : yeseong0412@dgsw.hs.kr
 
